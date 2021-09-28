@@ -10,7 +10,15 @@ export default function App() {
           <DictionarySearch />
         </main>
         <footer className="App-footer">
-          <small>Coded by Katherine Simpson</small>
+          <small>
+            Coded by Katherine Simpson and is{" "}
+            <a
+              href="https://github.com/Katherine1983-jpg/dictionary-project"
+              target="_blank"
+            >
+              open sourced
+            </a>
+          </small>
         </footer>
       </div>
     </div>
