@@ -13,7 +13,15 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by Katherine Simpson and is{" "}
+            Coded by{" "}
+            <a
+              href="https://katherine-simpson.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Katherine Simpson
+            </a>{" "}
+            and is{" "}
             <a
               href="https://github.com/Katherine1983-jpg/dictionary-project"
               target="_blank"
